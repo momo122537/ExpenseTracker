@@ -165,6 +165,6 @@ date,amount,category,notes
 
 圓餅圖成果：
 
-請參考 `screenshots/pie_chart.png`。
+請參考 ![Expense Pie Chart](screenshots/pie_chart.png)
 
 ---
